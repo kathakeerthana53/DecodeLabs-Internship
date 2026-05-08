@@ -48,5 +48,3 @@ Technologies Used
  Run the Project
 python recommendation_system.py
 
-Author
-K.Keerthana
