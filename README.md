@@ -1,71 +1,71 @@
-# DecodeLabs Python Projects
+ # DecodeLabs Internship Projects
 
- *1. AI Chatbot Project*
+## 1. AI Chatbot Project
 
-About Project
-I created this chatbot project using Python.  
-The chatbot can reply to simple user messages like greetings, help, name, and time.
-Features
-* Replies to hello messages
-* Shows current time
-* Gives simple responses
-* Stops when user types bye
-Technologies Used
+### About the Project
+This project is a simple AI chatbot developed using Python.
+The chatbot responds to basic user messages such as greetings, help requests, name queries, and current time.
+### Features
+* Responds to greeting messages
+* Displays the current time
+* Provides simple conversational replies
+* Ends the chat when the user types `bye`
+### Technologies Used
 * Python
-
- Run the Project
+### Run the Project
 python chatbot.py
 
+# 2. Iris Flower Classification Project
 
-*2. Iris Flower Classification Project*
-
- About Project
-This is a simple machine learning project using Python and KNN algorithm.  
-The model predicts the type of iris flower based on given data.
-Features
-* Loads iris dataset
-* Trains KNN model
-* Predicts flower type
-* Displays accuracy
-Technologies Used
+### About the Project
+This is a basic Machine Learning project built using Python and the K-Nearest Neighbors (KNN) algorithm.
+The model predicts the species of an iris flower based on input features from the Iris dataset.
+### Features
+* Loads the Iris dataset
+* Trains a KNN classification model
+* Predicts iris flower species
+* Displays model accuracy
+### Technologies Used
 * Python
 * Scikit-learn
-
- Run the Project
+### Run the Project
 python iris_classifier.py
 
 
+# 3. Movie Recommendation System
 
- *3. Movie Recommendation System*
-
-About Project
-I created this project to understand how recommendation systems work.  
-The program recommends movies based on user interests and matching genres.
-Features
-* Takes user interests as input
+### About the Project
+This project demonstrates a simple recommendation system developed using Python.
+The program recommends movies to users based on their interests and matching genres.
+### Features
+* Accepts user interests as input
 * Matches movie genres
-* Recommends movies
-* Shows match score
-Technologies Used
+* Recommends suitable movies
+* Displays match scores
+### Technologies Used
 * Python
-
-Run the Project
+### Run the Project
 python recommendation_system.py
 
-Project 4 - Text Recognition (Sentiment Analysis)
 
- Objective
-This project performs basic text recognition using a pre-trained AI model.
-- Python
-- Hugging Face Transformers
-- PyTorch
-- Accepts user text input
-- Detects sentiment
-- Displays confidence score
-1. Install required libraries:
-   pip install transformers torch
-2. Run the program:
-   python text_recognition_project4.py
+# 4. Text Recognition Project (Sentiment Analysis)
 
-Author
-K.Keerthana
+### About the Project
+This project performs basic text recognition using a pre-trained AI model for sentiment analysis.
+It analyzes user input text and predicts whether the sentiment is positive, negative, or neutral along with a confidence score.
+### Features
+* Accepts user text input
+* Detects sentiment using AI
+* Displays confidence score
+* Uses pre-trained NLP models
+### Technologies Used
+* Python
+* Hugging Face Transformers
+* PyTorch
+### Install Required Libraries
+pip install transformers torch
+### Run the Project
+python text_recognition_project4.py
+
+# Author
+**K. Keerthana**
