@@ -52,21 +52,18 @@ Technologies Used
 Run the Project
 python recommendation_system.py
 
-# Project 4 - Text Recognition (Sentiment Analysis)
+Project 4 - Text Recognition (Sentiment Analysis)
 
-## Objective
+ Objective
 This project performs basic text recognition using a pre-trained AI model.
-
 - Python
 - Hugging Face Transformers
 - PyTorch
 - Accepts user text input
 - Detects sentiment
 - Displays confidence score
-- 
 1. Install required libraries:
    pip install transformers torch
-
 2. Run the program:
    python text_recognition_project4.py
 
